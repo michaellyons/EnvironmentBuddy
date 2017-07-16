@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/michaellyons/EnvironmentBuddy#readme",
   "dependencies": {
-    "serialport": "^4.0.7"
+    "express": "^4.15.3",
+    "serialport": "^4.0.7",
+    "ws": "^3.0.0"
   }
 }
