@@ -1,5 +1,5 @@
-# Enviroment Buddy
-Enviroment Buddy (Buddy) is an example Internet of Things (IoT) project to build an [Arduino] device that records atmospheric sensor data, sends that data to a central [node.js] server that logs data to [MongoDB] and broadcasts live metrics to a [ReactJS] webapp.
+# Environment Buddy
+Environment Buddy (Buddy) is an example Internet of Things (IoT) project to build an [Arduino] device that records atmospheric sensor data, sends that data to a central [node.js] server that logs data to [MongoDB] and broadcasts live metrics to a [ReactJS] webapp.
 
 ### Technologies Used
   - [ReactJS] - Front End Framework
